@@ -1,8 +1,5 @@
-/*Student Name : Rohit Kumar Malik
-	Student ID : 35363998 
-	ICT 159 
-	 Assignment 1
-*/
+// Author: Rohit Malik
+// Project: Multi-Currency Coin Change Calculator
 
 #include <stdio.h>
 #include "coin_calculator.h"
