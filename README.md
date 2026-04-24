@@ -35,7 +35,9 @@ advanced-version/
 
 ### Compile
 gcc main.c coin_calculator.c -o calculator
-### Run
+### Run on Windows
+calculator
+### Run on macOS/Linux
 ./calculator
 
 For the advanced version, ensure that the input file (coins.txt) is placed in the same directory before running the program.
