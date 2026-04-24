@@ -1,0 +1,17 @@
+What works:
+
+Modular design enhances code clarity and ease of maintenance.
+Abstraction of functions promotes reusability and adaptability.
+Low coupling between modules increases flexibility and reduces dependencies.
+
+
+What does not work:
+
+Enhanced error handling for better management of unexpected inputs.
+Addressing edge cases in user input validation to improve overall robustness.
+
+
+Virus/Malware Check:
+
+Tool Utilized: Windows Malicious Software Removal Tool 64-bit
+Version: 5.125
