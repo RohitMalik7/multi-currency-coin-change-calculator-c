@@ -1,3 +1,6 @@
+// Author: Rohit Malik
+// Project: Multi-Currency Coin Change Calculator
+
 What works:
 
 Modular design enhances code clarity and ease of maintenance.
